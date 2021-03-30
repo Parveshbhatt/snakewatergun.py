@@ -1,9 +1,9 @@
 # snakewatergun.py
 <p>import random<br>
-print("We Gonna Play Snake Water and Gun")
-swg=["snake","water","gun"]
-r=random.choice(swg)
-dict_swg={1:"snake",2:"water",3:"gun"}
+print("We Gonna Play Snake Water and Gun")<br>
+swg=["snake","water","gun"]<br>
+r=random.choice(swg)<br>
+dict_swg={1:"snake",2:"water",3:"gun"}<br>
 
 i=1
 while(i<=3):
