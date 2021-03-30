@@ -1,5 +1,5 @@
 # snakewatergun.py
-<p>import random
+<p>import random<br>
 print("We Gonna Play Snake Water and Gun")
 swg=["snake","water","gun"]
 r=random.choice(swg)
